@@ -1,0 +1,8 @@
+|0100 LIT 'h #18 DEO ( h )
+      LIT 'e #18 DEO ( e )
+      LIT 'l #18 DEO ( l )
+      LIT 'l #18 DEO ( l )
+      LIT 'o #18 DEO ( o )
+      #0a #18 DEO ( newline )
+      #01 #09 ADD
+      #01 #0e DEO
